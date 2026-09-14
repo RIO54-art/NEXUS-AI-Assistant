@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.wav
+debug_audio/
+*.log
+.env
+.env.*
+!.env.example
+
+whisper-bin-x64/
+*.backup
+
+whisper-bin-x64/
+*.backup
+
